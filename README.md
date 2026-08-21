@@ -12,10 +12,6 @@ Turning ideas into intelligent systems.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;AI+Enthusiast;Full-Stack+Developer;Building+Ethical+AI+Systems"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bohlale-Mabonga&color=blueviolet&style=for-the-badge"/>
-</p>
-
 ---
 
 ## About Me
@@ -33,7 +29,7 @@ Hi! I'm **Bohlale Mabonga**, a Computer Science student from South Africa who en
 ## whoami
 
 ```bash
-bohlale@github:~$ whoami
+bohlale@github:~\$ whoami
 
 Name: Bohlale Mabonga
 Role: Computer Science Student | AI Enthusiast
@@ -41,7 +37,7 @@ Location: South Africa 🇿🇦
 Focus: AI, Machine Learning, Parallel Computing
 Mission: Build ethical AI systems.
 
-bohlale@github:~$ echo $GOAL
+bohlale@github:~ echo GOAL
 
 "Create technology that empowers people and solves real-world problems."
 ```
