@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Enthusiast;Full+Stack+Developer;Building+Ethical+AI+Systems"/>
 </p>
 
+<h3 align="center">Turning ideas into intelligent systems.</h3>
+
 ---
 
 ## About Me
@@ -23,9 +25,9 @@ class Bohlale:
 
 - 🎓 Computer Science student
 - 🤖 Interested in Artificial Intelligence and Machine Learning
-- 💻 Full-stack developer who enjoys building practical software
-- 🌱 Currently exploring parallel computing and AI systems
-- 🚀 Open to collaborating on meaningful tech projects
+- 💻 Building full-stack applications with modern technologies
+- 🌱 Exploring parallel computing and AI systems
+- 🚀 Open to meaningful collaborations
 
 ---
 
@@ -60,17 +62,20 @@ class Bohlale:
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bohlale-Mabonga&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bohlale-Mabonga&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Bohlale-Mabonga&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/Bohlale-Mabonga/Bohlale-Mabonga/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -122,7 +127,6 @@ A searchable document management system with authentication and a modern web int
 </a>
 
 </p>
-
 
 ---
 
