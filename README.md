@@ -65,7 +65,12 @@ class Bohlale:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Bohlale-Mabonga&theme=tokyonight&hide_border=true"/>
+</p>
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -117,6 +122,7 @@ A searchable document management system with authentication and a modern web int
 </a>
 
 </p>
+
 
 ---
 
