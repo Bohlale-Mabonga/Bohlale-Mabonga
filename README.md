@@ -1,61 +1,74 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:FF4D8D&height=220&section=header&text=Bohlale%20Mabonga&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
+<h1 align="center">Bohlale Mabonga</h1>
+
+<h3 align="center">CODE • LEARN • BUILD • IMPACT</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Enthusiast;Full+Stack+Developer;Building+Ethical+AI+Systems"/>
+Turning ideas into intelligent systems.
 </p>
 
-<h3 align="center">Turning ideas into intelligent systems.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;AI+Enthusiast;Full-Stack+Developer;Building+Ethical+AI+Systems"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bohlale-Mabonga&color=blueviolet&style=for-the-badge"/>
+</p>
 
 ---
 
 ## About Me
 
-```python
-class Bohlale:
-    def __init__(self):
-        self.location = "South Africa 🇿🇦"
-        self.focus = "Artificial Intelligence"
-        self.currently_learning = [
-            "Machine Learning",
-            "Parallel Computing",
-            "Full Stack Development"
-        ]
-        self.goal = "Build ethical AI systems."
+Hi! I'm **Bohlale Mabonga**, a Computer Science student from South Africa who enjoys building software that combines practical engineering with artificial intelligence. I'm particularly interested in machine learning, parallel computing, and creating technology that has a positive real-world impact.
+
+- 🎓 Computer Science Student
+- 🤖 AI & Machine Learning Enthusiast
+- 💻 Full-Stack Developer
+- ⚡ Exploring Parallel Computing
+- 🌍 Open to research, internships, and collaborations
+
+---
+
+## whoami
+
+```bash
+bohlale@github:~$ whoami
+
+Name: Bohlale Mabonga
+Role: Computer Science Student | AI Enthusiast
+Location: South Africa 🇿🇦
+Focus: AI, Machine Learning, Parallel Computing
+Mission: Build ethical AI systems.
+
+bohlale@github:~$ echo $GOAL
+
+"Create technology that empowers people and solves real-world problems."
 ```
 
-- 🎓 Computer Science student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 💻 Building full-stack applications with modern technologies
-- 🌱 Exploring parallel computing and AI systems
-- 🚀 Open to meaningful collaborations
+---
+
+## Quote of the Day
+
+> 💡 *"The best way to predict the future is to create it."*
+>
+> **— Alan Kay**
 
 ---
 
 ## Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,nodejs,mongodb,git,docker,vscode,linux,html,css&theme=dark"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Core Technologies**
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- **Languages:** Java, Python, C++, SQL
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, Docker, VS Code, Linux
 
 ---
 
@@ -88,7 +101,7 @@ class Bohlale:
 
 ### ⚽ Sports Live
 
-A real-time football tracking platform built with React, Node.js, MongoDB, and REST APIs.
+A real-time football tracking platform built with React, Node.js, MongoDB, and REST APIs for live scores, match events, and football data.
 
 </td>
 
@@ -96,7 +109,25 @@ A real-time football tracking platform built with React, Node.js, MongoDB, and R
 
 ### 📚 Constitutional Archive
 
-A searchable document management system with authentication and a modern web interface.
+A searchable document management system featuring authentication, modern UI, and efficient document retrieval.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 AI Research & Experiments
+
+Machine learning projects exploring ethical AI, intelligent systems, and practical applications.
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming Soon
+
+Always building, learning, and experimenting with new technologies.
 
 </td>
 </tr>
@@ -104,12 +135,23 @@ A searchable document management system with authentication and a modern web int
 
 ---
 
-## Current Focus
+## Currently Working On
 
 - 🤖 Building AI-powered software
-- 📊 Expanding machine learning skills
+- 📊 Improving machine learning projects
 - ⚡ Learning parallel computing
 - 🌍 Contributing to impactful technology projects
+- 🎯 Preparing for research opportunities in AI
+
+---
+
+## Goals
+
+- ✅ Master advanced Machine Learning
+- ✅ Build impactful open-source projects
+- ✅ Gain research experience in AI
+- ✅ Develop ethical AI systems
+- ✅ Create technology for social good
 
 ---
 
@@ -118,16 +160,20 @@ A searchable document management system with authentication and a modern web int
 <p align="center">
 
 <a href="https://github.com/Bohlale-Mabonga">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace with your LinkedIn URL -->
+<!-- Replace with your LinkedIn profile -->
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
+
+<p align="center">
+⭐ Thanks for visiting! Let's build a better, smarter future together.
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,50:00C9FF,100:6C63FF&height=120&section=footer"/>
